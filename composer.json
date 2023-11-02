@@ -1,0 +1,15 @@
+{
+    "name": "comapny/utility",
+    "autoload": {
+        "psr-4": {
+            "Comapny\\Utility\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Priyank2310",
+            "email": "priyankmaheshwari23@gmail.com"
+        }
+    ],
+    "require": {}
+}
